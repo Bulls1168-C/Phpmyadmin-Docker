@@ -7,11 +7,11 @@
 #FECHA: 13 Septiembre 2025
 ################################################################
 #INTEGRANTES GRUPO 1 MUNICIPIO DE QUITO
-#BYRON CARPIO
-#MILTON VILLAROEL
-#EDISON MENA
-#ALEX BENAVIDES
-#MARCELO GALLARDO
+#Carpio Zaquinaula Byron Orlando
+#Villarroel Vera Milton Orlando
+#Mena Segura Edison Fabian
+#Benavides Freire Alex Vicente
+#Gallardo Nicolalde Marcelo Ivan
 #################################################################
 
 # Variables
@@ -20,7 +20,7 @@ VOLUME="Sistema_Portales_Data"
 MYSQL_CONTAINER="Sistema_Portales_Mysql"
 PHPMYADMIN_CONTAINER="Sistema_Portales_phpMyAdmin"
 MYSQL_IMAGE="mariadb:10.11"
-PHPMYADMIN_IMAGE="phpmyadmin:5.2.2"
+PHPMYADMIN_IMAGE="phpmyadmin:5.1.3"
 MYSQL_PORT=3306
 PHPMYADMIN_PORT=8080
 
